@@ -13,10 +13,10 @@
 
 <h3 align="left">BOJ Profile</h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syk0726)](https://solved.ac/syk0726/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syk0726)](https://solved.ac/{syk0726}/)
 ![syk0726 profile](http://mazandi.herokuapp.com/api?handle=syk0726&theme=dark)
 
 <h3 align="left">코딩테스트 문제 사이트:</h3>
 
-- [프로그래머스] : (https://programmers.co.kr/learn/challenges)
 - [백준] : (https://www.acmicpc.net/)
+- [프로그래머스] : (https://programmers.co.kr/learn/challenges)
