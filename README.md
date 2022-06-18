@@ -14,7 +14,7 @@
 <h3 align="left">BOJ Profile</h3>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=syk0726)](https://solved.ac/syk0726)
-![syk0726 profile](http://mazandi.herokuapp.com/api?handle=syk0726&theme=dark)
+![syk0726 profile](http://mazandi.herokuapp.com/api?handle=syk0726&theme=warm)
 
 <h3 align="left">코딩테스트 문제 사이트:</h3>
 
