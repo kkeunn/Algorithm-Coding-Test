@@ -21,10 +21,9 @@ def solution(maps):
                     # 길이라면
                     if maps[nx][ny] == 1:
                         # 해당 노드를 처음 방문하는 경우에만 최단 거리 기록
-                        if maps[nx][ny] == 1:
-                            maps[nx][ny] = maps[x][y] + 1
-                            # 큐에 넣어 이 칸에서 네 방향 확인할 수 있도록 함
-                            queue.append((nx, ny))
+                        maps[nx][ny] = maps[x][y] + 1
+                        # 큐에 넣어 이 칸에서 네 방향 확인할 수 있도록 함
+                        queue.append((nx, ny))
         #가장 오른쪽 아래까지의 최단 거리 반환
         return maps[-1][-1]
     answer = bfs(0, 0)
